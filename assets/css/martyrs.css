@@ -5,13 +5,8 @@ body{
     margin: 0;
     padding: 0;
 
-    background-image: url("image.jpg");
+    background: none !important;
    
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-background-attachment: fixed;
-
 min-height: 100vh;
 
 
@@ -21,7 +16,7 @@ body::before {
     content: "";
     position: fixed;
     inset: 0;
-    background: url ("image.jpg") center/cover no-repeat;
+    background: url("../../background/image.jpg") center/cover no-repeat;
     filter: blur(5px);
     transform: scale(1.05); /* حتى لا تظهر حواف بعد البلور */
     z-index: -2;
