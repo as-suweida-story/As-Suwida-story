@@ -5,7 +5,7 @@ body{
     margin: 0;
     padding: 0;
 
-    background-image: url("../../background/FB_IMG_1771073176838.jpg");
+    background-image: url("../../background/image.jpg");
    
 background-size: cover;
 background-position: center;
@@ -21,7 +21,7 @@ body::before {
     content: "";
     position: fixed;
     inset: 0;
-    background: url ("../../background/FB_IMG_1771073176838.jpg") center/cover no-repeat;
+    background: url ("../../background/image.jpg") center/cover no-repeat;
     filter: blur(5px);
     transform: scale(1.05); /* حتى لا تظهر حواف بعد البلور */
     z-index: -2;
