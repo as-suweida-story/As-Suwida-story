@@ -21,7 +21,7 @@ body::before {
     content: "";
     position: fixed;
     inset: 0;
-    background: url("/background/FB_IMG_1771073176838.jpg") center/cover no-repeat;
+    background: url ("../../background/FB_IMG_1771073176838.jpg") center/cover no-repeat;
     filter: blur(5px);
     transform: scale(1.05); /* حتى لا تظهر حواف بعد البلور */
     z-index: -2;
