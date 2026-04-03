@@ -1,0 +1,162 @@
+[
+  {
+    "id": "0001",
+    "name": "أحمد الشامي",
+    "tags": ["مدني", "صلخد"],
+    "shortDescription": "شهيد مدني من صلخد.",
+    "image": "images/martyrs/0001.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0002",
+    "name": "ليلى الحسن",
+    "tags": ["ناشطة", "2023"],
+    "shortDescription": "ناشطة اجتماعية استشهدت في 2023.",
+    "image": "images/martyrs/0002.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0003",
+    "name": "محمد القاسم",
+    "tags": ["عسكري", "2022"],
+    "shortDescription": "شهيد من القوات المحلية.",
+    "image": "images/martyrs/0003.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0004",
+    "name": "سارة الطويل",
+    "tags": ["مدني", "2021"],
+    "shortDescription": "مربية من صلخد.",
+    "image": "images/martyrs/0004.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0005",
+    "name": "علي عبد الرحمن",
+    "tags": ["ناشط", "2020"],
+    "shortDescription": "ناشط سياسي محلي.",
+    "image": "images/martyrs/0005.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0006",
+    "name": "فاطمة حسين",
+    "tags": ["مدني", "2023"],
+    "shortDescription": "طالبة جامعية استشهدت في صلخد.",
+    "image": "images/martyrs/0006.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0007",
+    "name": "يوسف الكردي",
+    "tags": ["عسكري", "2022"],
+    "shortDescription": "من القوات المحلية المدافعة.",
+    "image": "images/martyrs/0007.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0008",
+    "name": "هند الجاسم",
+    "tags": ["ناشطة", "2021"],
+    "shortDescription": "ناشطة اجتماعية.",
+    "image": "images/martyrs/0008.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0009",
+    "name": "خالد مراد",
+    "tags": ["مدني", "2020"],
+    "shortDescription": "شهيد مدني.",
+    "image": "images/martyrs/0009.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0010",
+    "name": "ريم سالم",
+    "tags": ["مدني", "2023"],
+    "shortDescription": "طالبة استشهدت في صلخد.",
+    "image": "images/martyrs/0010.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0011",
+    "name": "عبد الله ناصر",
+    "tags": ["عسكري", "2022"],
+    "shortDescription": "من القوات المحلية.",
+    "image": "images/martyrs/0011.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0012",
+    "name": "سلوى فرح",
+    "tags": ["مدني", "2021"],
+    "shortDescription": "مدرسة محلية.",
+    "image": "images/martyrs/0012.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0013",
+    "name": "رامي أبو علي",
+    "tags": ["ناشط", "2020"],
+    "shortDescription": "ناشط سياسي.",
+    "image": "images/martyrs/0013.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0014",
+    "name": "منى خالد",
+    "tags": ["مدني", "2023"],
+    "shortDescription": "طالبة جامعية.",
+    "image": "images/martyrs/0014.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0015",
+    "name": "سامر فهد",
+    "tags": ["عسكري", "2022"],
+    "shortDescription": "من الدفاع المحلي.",
+    "image": "images/martyrs/0015.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0016",
+    "name": "دانا يوسف",
+    "tags": ["مدني", "2021"],
+    "shortDescription": "مدرسة من صلخد.",
+    "image": "images/martyrs/0016.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0017",
+    "name": "محمود عمر",
+    "tags": ["ناشط", "2020"],
+    "shortDescription": "ناشط محلي.",
+    "image": "images/martyrs/0017.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0018",
+    "name": "سارة عادل",
+    "tags": ["مدني", "2023"],
+    "shortDescription": "طالبة جامعية.",
+    "image": "images/martyrs/0018.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0019",
+    "name": "أحمد جمال",
+    "tags": ["عسكري", "2022"],
+    "shortDescription": "من الدفاع المحلي.",
+    "image": "images/martyrs/0019.jpg",
+    "hasImage": false
+  },
+  {
+    "id": "0020",
+    "name": "هالة مصطفى",
+    "tags": ["مدني", "2021"],
+    "shortDescription": "مدرسة محلية.",
+    "image": "images/martyrs/0020.jpg",
+    "hasImage": false
+  }
+]
